@@ -41,7 +41,7 @@
                 android:id="@+id/btnFavorit"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:src="@drawable/ic_baseline_favorite_border_24"
+                android:src="@drawable/ic_favorite"
                 android:layout_weight="1"
                 />
             <ImageView
