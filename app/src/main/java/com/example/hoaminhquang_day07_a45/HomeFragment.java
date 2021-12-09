@@ -55,7 +55,12 @@ public class HomeFragment extends Fragment {
 //
 //        rvList.setAdapter(recyclerviewAdapter);
 //        rvList.setLayoutManager(layoutManager);
+        binding.btnIcon.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
 
+            }
+        });
         return binding.getRoot();
     }
 }
